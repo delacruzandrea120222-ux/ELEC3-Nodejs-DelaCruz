@@ -131,3 +131,6 @@ switch (command) {
         console.log("delete <filename>");
         console.log("list");
 }
+
+// File Manager commands support create, read, update, delete, and list.
+// File paths are handled using the path module.
